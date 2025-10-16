@@ -1,0 +1,17 @@
+.main{
+    margin: 0px;
+    padding: 20px;
+    background-color: khaki;
+    display: grid;
+    place-items: center;
+}
+.tareas{
+       width: 200px;
+    margin: 0px;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.lista{
+    padding: 40px;
+}
